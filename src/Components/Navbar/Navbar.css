@@ -1,0 +1,10 @@
+.nav {
+    background-color: grey;
+    height: 100px;
+}
+
+.heading {
+    color: aliceblue;
+    font-size: larger;
+    font-weight: bolder;
+}
